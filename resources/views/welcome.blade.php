@@ -79,13 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Foro de Pruebas en laravel
                 </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
                     <a href="#">About</a>
+                    <a href="#">Cursos</a>
                     <a href="https://github.com/diegofertr">GitHub</a>
                 </div>
             </div>
