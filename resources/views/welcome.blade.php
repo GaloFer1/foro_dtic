@@ -83,9 +83,10 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
                     <a href="#">About</a>
                     <a href="#">Cursos</a>
+                    <a href="#">Charlas</a>
+                    <a href="#">Tutoriales</a>
                     <a href="https://github.com/diegofertr">GitHub</a>
                 </div>
             </div>
