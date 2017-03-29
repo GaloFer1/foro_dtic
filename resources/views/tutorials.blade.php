@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tutoriales
+                    Tutoriales de Desarrollo web
                 </div>
             </div>
         </div>
