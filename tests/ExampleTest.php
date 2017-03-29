@@ -14,6 +14,8 @@ class ExampleTest extends TestCase
      */
     public function testBasicExample()
     {
+        $this->assertTrue(false);
+
         $name = 'Diego Ticona Ramos';
         $email = 'diego@dtic.com';
         //No depender de datos aleatorios en las pruebas
