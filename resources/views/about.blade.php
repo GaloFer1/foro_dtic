@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>About</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -21,18 +21,10 @@
                 margin: 0;
             }
 
-            .full-height {
-                height: 100vh;
-            }
-
             .flex-center {
                 align-items: center;
                 display: flex;
                 justify-content: center;
-            }
-
-            .position-ref {
-                position: relative;
             }
 
             .top-right {
@@ -79,15 +71,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Foro de Pruebas en laravel
-                </div>
-
-                <div class="links">
-                    <a href="/about ">About</a>
-                    <a href="/courses">Cursos</a>
-                    <a href="/tutorials">Tutoriales</a>
-                    <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a>
-                    <a href="https://github.com/diegofertr">GitHub</a>
+                    About me
                 </div>
             </div>
         </div>
