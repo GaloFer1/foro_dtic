@@ -6,7 +6,7 @@ php:
 
 before_script:
   - cp .env.travis .env
-  - mysql -c 'create database foro_tests;'
+  - mysql -e 'create database foro_tests;'
   - composer self-update
   - composer install --no-interaction
   - php artisan migrate --force
