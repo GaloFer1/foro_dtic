@@ -31,3 +31,6 @@ Route::get('courses', function(){
 Route::get('tutorials', function(){
   return view('tutorials');
 });
+
+// POSTS
+Route::get('posts/create');
